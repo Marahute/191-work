@@ -6,9 +6,9 @@
 ## What We Accomplished
 
 1. Established a network of programs that will help us instate instances of:
-* text editing
-* version control
-* and finally an online community to upload them to
+* Text editing
+* Version control
+* And finally an online community to upload them to
 
 ## What I Don't Get
 
