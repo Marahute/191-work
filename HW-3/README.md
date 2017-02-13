@@ -17,7 +17,6 @@
 
 ### My Sketch
 Homework: https://marahute.github.io/191-work/HW-3
-Sketch:
 
 [p5 Reference Sheet](https://p5js.org/reference/)
 
