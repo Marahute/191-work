@@ -17,6 +17,7 @@
 
 [p5 Reference Sheet](https://p5js.org/reference/)
 
+My Development Process. Using Arcs=Hard
 ![Using Arcs=Hard](./imgs/1Snoo.png "Using Arcs=Hard")
 ![Using Arcs=Easier?](./imgs/2Snoo.png "Using Arcs=Easier?")
 ![Making Suspenders](./imgs/3Snoo.png "Making Suspenders")
