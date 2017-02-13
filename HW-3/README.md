@@ -17,7 +17,7 @@
 
 [p5 Reference Sheet](https://p5js.org/reference/)
 
-![Using Arcs=Hard](./1Snoo.png "Using Arcs=Hard")
-![Using Arcs=Easier?](./2Snoo.png "Using Arcs=Easier?")
-![Making Suspenders](./3Snoo.png "Making Suspenders")
-![Finished](./4Snoo.png "Finished")
+![Using Arcs=Hard](./imgs/1Snoo.png "Using Arcs=Hard")
+![Using Arcs=Easier?](./imgs/2Snoo.png "Using Arcs=Easier?")
+![Making Suspenders](./imgs/3Snoo.png "Making Suspenders")
+![Finished](./imgs/4Snoo.png "Finished")
