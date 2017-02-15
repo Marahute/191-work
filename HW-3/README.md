@@ -14,7 +14,7 @@
 
 1. Geometry. I keep having to blindly guess my inputs for arcs and bezier curves until I get them where I want them.
 2. Difference between draw and setup functions
-3. How to get my sketch online. Repository Management?
+3. How my sketch got online. Links weren't working when I left school on Monday. Did the coding fairy come through and fix things for me?
 
 ### My Sketch
 Homework: https://marahute.github.io/191-work/HW-3
