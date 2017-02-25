@@ -18,6 +18,6 @@
 2. Differences between processing and p5, which language is compatible? A lot of my processing commands haven't been working well for me in p5.
 
 ### My Sketch
-Homework was inspired by Dylan Belcourt's assignment, saw a way to take it just a bit further: https://marahute.github.io/191-work/HW-3
+Homework was inspired by Dylan Belcourt's assignment, saw a way to take it just a bit further: https://marahute.github.io/191-work/HW-4
 
 [p5 Reference Sheet](https://p5js.org/reference/)
