@@ -14,10 +14,10 @@
 
 ## What I Don't Get Yet
 
-1. Too many functions and dependents for me to comfortably work with. I'm becoming less and less enthralled with this type of work. Visual-based tools allow me to focus on my creativity and not be frustrated by cognitive barriers.
+1. Too many functions and dependents for me to comfortably work with. I'm becoming less and less enthralled with this type of work. Visual-based tools allow me to focus on my creativity and not be frustrated by  barriers.
 2. Differences between processing and p5, which language is compatible? A lot of my processing commands haven't been working well for me in p5.
 
 ### My Sketch
-Homework was inspired by Dylan Belcourt's assignment, saw a way to take it just a bit further: https://marahute.github.io/191-work/HW-4
+Homework was inspired by Dylan Belcourt's falling snowflake code, just saw a way to take it a step further: https://marahute.github.io/191-work/HW-4
 
 [p5 Reference Sheet](https://p5js.org/reference/)

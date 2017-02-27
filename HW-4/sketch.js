@@ -26,9 +26,9 @@ function draw() {
   // Mapping mouseX to a usable range
   // bgVal = mouseX;
   // bgVal = mouseX * 0.425;
-  bgRed = map(mouseX, 0, 600, 0, 255);
-  bgGreen = map(mouseY, 0, 600, 0, 255);
-  bgBlue = map(mouseX + mouseY, 0, 1200, 255, 0);
+  bgRed = map(mouseX, 0, , 0, 50);
+  bgGreen = map(mouseY, 0, 600, 0, 50);
+  bgBlue = map(mouseX + mouseY, 0, 1200, 50, 0);
 
 
   background(bgRed, bgGreen, bgBlue);
