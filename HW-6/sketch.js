@@ -18,8 +18,6 @@ function setup() {
 
 
 
-
-
   createCanvas(windowWidth, windowHeight);
   background(0);
 
@@ -31,7 +29,6 @@ function draw() {
  if (f) {
 
    frameRate (fr);
-
 
   fill (19, 175, 200);
   ellipse (width*0.75, height*0.75, x*4, x*4);
@@ -50,9 +47,6 @@ function draw() {
   x++;
   } else {
 
-
-
-
     background(0, 0, 0);
       }
 
@@ -66,9 +60,5 @@ function draw() {
       if (dist(mouseX, mouseY, windowWidth, windowHeight) < 0); {
         f = !f;
     }
-
-
-
-
 
 }

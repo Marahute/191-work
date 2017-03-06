@@ -1,22 +1,19 @@
-# Alex Schuler Week 5 Assignment
+# Alex Schuler Week 6 Assignment
 
 ## Musings on Class
-  This week I tried to be more humble and accepting of the fact that this is new material and might take awhile for me to get used to.
-
-  Class time was well spent, however, I wish we had more time to work on our projects in class, it seems so much more practical using code than watching it.
+Michael seems much more satisfied with the classes progress as a whole, and I can see a definite uptick in the quality of art being produced. I'll admit to being uninspired; but I've realized a greater appreciation for my classmates work.
 
 ## What We Accomplished
 
 1. Learned new p5 language:
-* Random functions
-* Tried to use algorithms
-* More math dependent variable functions
+* Spent most of the week getting a ball to bounce off the canvas.
+* Conditionals! (if, then statements)
 
 ## What I Don't Get Yet
 
-1. I would like to figure out how to make my background mapping function from the previous assignment work on this one. It might have something to do with my windowWidth and windowHeight canvas setup.
+1. Adding blend mode to my swatches
 
 ### My Sketch
-https://marahute.github.io/191-work/HW-5
+https://marahute.github.io/191-work/HW-6
 
 [p5 Reference Sheet](https://p5js.org/reference/)
